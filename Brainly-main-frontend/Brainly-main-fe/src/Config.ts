@@ -1,1 +1,1 @@
-export const Backend_url= "http://localhost:3000"
+export const Backend_url= "https://brainly-zkhz.onrender.com"
